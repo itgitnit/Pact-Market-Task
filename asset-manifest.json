@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Pact-Market-Task/static/css/main.5ed85788.chunk.css",
+    "main.js": "/Pact-Market-Task/static/js/main.04d18a83.chunk.js",
+    "main.js.map": "/Pact-Market-Task/static/js/main.04d18a83.chunk.js.map",
+    "runtime-main.js": "/Pact-Market-Task/static/js/runtime-main.4153a33e.js",
+    "runtime-main.js.map": "/Pact-Market-Task/static/js/runtime-main.4153a33e.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/Pact-Market-Task/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.709a82b9.chunk.js": "/Pact-Market-Task/static/js/2.709a82b9.chunk.js",
+    "static/js/2.709a82b9.chunk.js.map": "/Pact-Market-Task/static/js/2.709a82b9.chunk.js.map",
+    "index.html": "/Pact-Market-Task/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/Pact-Market-Task/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.5ed85788.chunk.css.map": "/Pact-Market-Task/static/css/main.5ed85788.chunk.css.map",
+    "static/js/2.709a82b9.chunk.js.LICENSE.txt": "/Pact-Market-Task/static/js/2.709a82b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4153a33e.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.709a82b9.chunk.js",
+    "static/css/main.5ed85788.chunk.css",
+    "static/js/main.04d18a83.chunk.js"
+  ]
+}
